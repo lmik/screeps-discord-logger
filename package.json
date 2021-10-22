@@ -1,0 +1,16 @@
+{
+  "name": "screeps-discord-logger",
+  "version": "1.0.0",
+  "description": "mirror screeps log messages to discord",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qnz",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "screeps-api": "^1.16.0",
+    "string-strip-html": "^8.3.0"
+  }
+}
